@@ -1,6 +1,6 @@
 
 
-# Anomaly Dectection in Videos Using STSAE
+# Anomaly Dectection in Videos
 ## Configurations
 Create a new Config.py by copying Config.py.example, which contains the following parameters.
 - **DATASET_PATH**: path to USCDped1/Train directory.
