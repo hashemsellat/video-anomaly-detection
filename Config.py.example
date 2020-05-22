@@ -1,0 +1,9 @@
+DATASET_PATH = "/home/hashem/Desktop/GB/train/"
+SINGLE_TEST_PATH = "/home/hashem/Desktop/GB/Test001"
+RELOAD_DATASET = True
+RELOAD_TESTSET = True
+RELOAD_MODEL = True
+CACHE_PATH = "cache"
+MODEL_PATH = "model"
+BATCH_SIZE = 1
+EPOCHS = 1
