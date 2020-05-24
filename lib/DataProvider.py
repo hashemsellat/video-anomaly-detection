@@ -61,8 +61,8 @@ def get_dataset(re=Config.RELOAD_DATASET):
                     img = np.array(img, dtype=np.float32)
                     img = img / 256.0
                     all_frames.append(img)
-            for stride in range(0, 1):
-                clips.extend(get_clips_by_stride(1, all_frames))
+            for stride in range(1, 2):
+                clips.extend(get_clips_by_stride(stride, all_frames))
     cache["dataset"] = clips
     cache.close()
     return clips
