@@ -1,6 +1,29 @@
 
 
 # Anomaly Dectection in Videos
+## Objective
+Video anomaly detector with multiple algorithms, and adding real-time support in the future.
+
+## Currently Implemented Approaches
+For each approach, there should be a jupyter notebook and it should be integrated into the project.
+<table style="width:100%;">
+    <tr>
+        <th>Approach</th>
+        <th>Notebook Status</th>
+        <th>Project Status</th>
+    </tr>
+    <tr>
+        <td><a href="http://arxiv.org/abs/1701.01546">STAE</a></td>
+        <td>todo</td>
+        <td>done</td>
+    </tr>
+    <tr>
+        <td><a href="https://arxiv.org/abs/1604.04574">LSTM Autoencoder</a></td>
+        <td>done</td>
+        <td>todo</td>
+    </tr>
+</table>
+
 ## Configurations
 Create a new Config.py by copying Config.py.example, which contains the following parameters.
 - **DATASET_PATH**: path to USCDped1/Train directory.
