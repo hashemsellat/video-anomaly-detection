@@ -4,6 +4,16 @@
 ## Objective
 Video anomaly detection system with multiple algorithms, and real-time support.
 
+## Buy us a coffee
+We have a lot of ideas and improvements to work on, and to make them a reality we need a massive amount of coffee and sugar, So if you are interested in supporting us, please send some money to the following bitcoin address:
+
+bc1qt9fzr528fn0juqmlqnlqw2lcy4dvhwm4sg4za6
+
+Or use QR code:
+
+<img src="https://imgur.com/ciw2hJc.jpg" width="30%" height="30%"/>
+
+
 ## Currently Implemented Approaches
 For each approach, there should be a jupyter notebook, evaluation support (taking a sample test and output whether it is anomaly or not), and real-time support.
 <table style="width:100%;">
@@ -42,12 +52,3 @@ After putting the desired configurations, run evaluation.py to get the result of
 
 ## Notes
 LSTM autoencoder which I used in my article only exists as a jupyter notebook in notebooks/lstmautoencoder. It'll be integrated with the project later.
-
-## Buy us a coffee
-We have a lot of ideas and improvements to work on, and to make them a reality we need a massive amount of coffee and sugar, So if you are interested in supporting us, please send some money to the following bitcoin address:
-
-bc1qt9fzr528fn0juqmlqnlqw2lcy4dvhwm4sg4za6
-
-Or use QR code:
-
-![Imgur bc1qt9fzr528fn0juqmlqnlqw2lcy4dvhwm4sg4za6](https://imgur.com/ciw2hJc.jpg)
