@@ -4,16 +4,6 @@
 ## Objective
 Video anomaly detection system with multiple algorithms, and real-time support.
 
-## Buy us a coffee
-We have a lot of ideas and improvements to work on, and to make them a reality we need a massive amount of coffee and sugar, So if you are interested in supporting us, please send some money to the following bitcoin address:
-
-3FrPr7wUKAbfWeeq7kZJAfBc1Zb9AKx8t1
-
-Or use QR code:
-
-
-<img src="https://imgur.com/7RyxUHU.jpg" width="30%" height="30%"/>
-
 
 ## Currently Implemented Approaches
 For each approach, there should be a jupyter notebook, evaluation support (taking a sample test and output whether it is anomaly or not), and real-time support.
