@@ -41,4 +41,5 @@ Create a new Config.py by copying Config.py.example, which contains the followin
 After putting the desired configurations, run evaluation.py to get the result of the chosed sample test after processed by the model.
 
 ## Notes
-LSTM autoencoder which I used in my article only exists as a jupyter notebook in notebooks/lstmautoencoder. It'll be integrated with the project later.
+LSTM autoencoder which I used in my [article](https://towardsdatascience.com/prototyping-an-anomaly-detection-system-for-videos-step-by-step-using-lstm-convolutional-4e06b7dcdd29 "Anomaly Detection in Videos using LSTM Convolutional Autoencoder")
+ only exists as a jupyter notebook in notebooks/lstmautoencoder. It'll be integrated with the project later.
